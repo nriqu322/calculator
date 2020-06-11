@@ -24,8 +24,8 @@ This is a Javascript project that emulates the function of a standard calculator
 
 👤 **Luis Saavedra**
 
-- Github: [@githubhandle](https://github.com/nriqu322)
-- Twitter: [@twitterhandle](https://twitter.com/nriqu322)
+- Github: [@nriqu322](https://github.com/nriqu322)
+- Twitter: [@nriqu322](https://twitter.com/nriqu322)
 - Linkedin: [Luis Saavedra](https://linkedin.com/in/luis-saavedra-sanchez/)
 
 ## Contributing
